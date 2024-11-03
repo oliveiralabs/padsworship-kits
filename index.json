@@ -3,30 +3,35 @@
     "name": "Bells Minor",
     "path": "online_kit_7",
     "coverUrl": "https://oliveiralabs.github.io/padsworship-kits/7/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/7/kit.padsworship"
+    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/7/kit.padsworship",
+    "version": 2
   },
   {
     "name": "Basic",
     "path": "online_kit_8",
     "coverUrl": "https://oliveiralabs.github.io/padsworship-kits/8/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/8/kit.padsworship"
+    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/8/kit.padsworship",
+    "version": 2
   },
   {
     "name": "Sinos",
     "path": "online_kit_9",
     "coverUrl": "https://oliveiralabs.github.io/padsworship-kits/9/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/9/kit.padsworship"
+    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/9/kit.padsworship",
+    "version": 2
   },
   {
     "name": "Soft Over",
     "path": "online_kit_10",
     "coverUrl": "https://oliveiralabs.github.io/padsworship-kits/10/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/10/kit.padsworship"
+    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/10/kit.padsworship",
+    "version": 2
   },
   {
     "name": "Sweeper Flanger Minor",
     "path": "online_kit_11",
     "coverUrl": "https://oliveiralabs.github.io/padsworship-kits/11/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/11/kit.padsworship"
+    "zipUrl": "https://oliveiralabs.github.io/padsworship-kits/11/kit.padsworship",
+    "version": 2
   }
 ]
